@@ -1,0 +1,16 @@
+{
+  "name": "elham",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "tailwind": "tailwindcss -i ./src/tailwind.css -o ./css/main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "live-server": "^1.2.2"
+  }
+}
